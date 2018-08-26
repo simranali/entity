@@ -1,0 +1,1 @@
+c:\users\imran\documents\visual studio 2013\Projects\EntityConsole\EntityConsole\bin\Debug\EntityConsole.exe.config
